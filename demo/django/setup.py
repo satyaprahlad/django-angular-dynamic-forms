@@ -64,7 +64,8 @@ setup(
     install_requires=[
         "djangorestframework",
         "django-angular-dynamic-forms",
-        "Django>2",
+        "asgiref==3.4.1",
+        "Django==3.2.11",
     ],
     # List additional groups of dependencies here (e.g. development
     # dependencies). You can install these using the following syntax,
