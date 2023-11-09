@@ -31,7 +31,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/mesemus/django-angular-dynamic-forms',
+    url='https://github.com/satyaprahlad/django-angular-dynamic-forms',
 
     # Author details
     author='Mirek Simek',
