@@ -51,6 +51,7 @@ setup(
         "Programming Language :: Python :: 3.4",
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.9",
     ],
     # What does your project relate to?
     keywords="django-rest-framework django angular2 forms ng-dynamic-forms",
