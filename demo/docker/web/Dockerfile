@@ -1,4 +1,7 @@
-FROM mhart/alpine-node
+FROM python:3.9-alpine
+
+# Install Node.js (replace with the appropriate version)
+RUN apk add --update nodejs npm
 
 # Initialize
 RUN mkdir -p /data/web

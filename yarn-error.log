@@ -1,21 +1,21 @@
 Arguments: 
-  /Users/zentrale/.nvm/versions/node/v16.14.2/bin/node /Users/zentrale/.yarn/bin/yarn.js
+  /snap/node/7026/bin/node /snap/node/7026/bin/yarn.js install
 
 PATH: 
-  /opt/homebrew/opt/gradle@6/bin:/Users/zentrale/.nvm/versions/node/v16.14.2/bin:/opt/homebrew/opt/terraform@0.12/bin:/usr/local/share/python:/Users/zentrale/.yarn/bin:/Users/zentrale/.config/yarn/global/node_modules/.bin:/Users/zentrale/bin:/opt/homebrew/opt/node@14/bin:/opt/homebrew/opt/libpq/bin:/Users/zentrale/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/opt/homebrew/opt/gradle@6/bin:/Users/zentrale/.nvm/versions/node/v16.14.2/bin:/opt/homebrew/opt/terraform@0.12/bin:/usr/local/share/python:/Users/zentrale/.yarn/bin:/Users/zentrale/.config/yarn/global/node_modules/.bin:/Users/zentrale/bin:/opt/homebrew/opt/node@14/bin:/opt/homebrew/opt/libpq/bin:/Users/zentrale/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/zentrale/Library/Android/sdk/tools/bin:/Users/zentrale/Library/Android/sdk/platform-tools:/Users/zentrale/Library/Android/sdk/emulatorexport:/Users/zentrale/Library/Android/sdk/tools/bin:/Users/zentrale/Library/Android/sdk/platform-tools:/Users/zentrale/Library/Android/sdk/emulatorexport
+  /home/prahlad/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
 
 Yarn version: 
   1.22.19
 
 Node version: 
-  16.14.2
+  14.21.2
 
 Platform: 
-  darwin arm64
+  linux x64
 
 Trace: 
   Error: connect ECONNREFUSED 127.0.0.1:4873
-      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)
 
 npm manifest: 
   {
