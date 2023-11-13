@@ -10,7 +10,7 @@ apk add --update python3 python3-dev py3-pip python2 build-base  gettext git sed
 pip3 install --upgrade pip gunicorn
 
 cd /data
-git clone https://github.com/mesemus/django-angular-dynamic-forms.git
+git clone https://github.com/satyaprahlad/django-angular-dynamic-forms.git
 
 cd /data/django-angular-dynamic-forms
 git log | head -10
