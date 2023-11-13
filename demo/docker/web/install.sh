@@ -6,7 +6,7 @@ cp /tmp/index.html /data/web/static/
 # Setup
 apk update
 apk upgrade
-apk add --update python3 python3-dev py3-pip python2 build-base  gettext git sed gawk bash
+apk add --update python3=3.11.6-r1 python3-dev py3-pip python2 build-base  gettext git sed gawk bash
 pip3 install --upgrade pip gunicorn
 
 cd /data
